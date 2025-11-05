@@ -9,4 +9,3 @@ crash.log
 *.pem
 *.key
 *.env
-EOF
